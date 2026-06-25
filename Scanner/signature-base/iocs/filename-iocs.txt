@@ -1,0 +1,2 @@
+# Optional custom filename IOCs
+Version_Bewerbung_2.0_202566_Bewerbungsnummer_0234521870_Datum_0000000200.exe;100;Renamed Sumatra-PDF

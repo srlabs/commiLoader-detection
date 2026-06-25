@@ -1,0 +1,2 @@
+# Optional custom C2 IOCs
+refugee-help.com;100;C2-Domain
